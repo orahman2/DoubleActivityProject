@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DoubleActivityProject</string>
+    <string name="submit">submit</string>
+    <string name="enter_message_here">enter message here</string>
+    <string name="message">hi</string>
+</resources>
